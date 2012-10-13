@@ -22,4 +22,13 @@ Required steps
 
         $ cd ..; git add .; git commit -m "Added vX.Y of your-project"; git push
 
+Adding to maven settings
+------------------------
+
+Add the following section under /settings/profiles/profile/repositories in your .m2/settings.xml
+
+        <repository>
+          <id>nitor-github</id>
+          <url>https://raw.github.com/NitorCreations/maven-repository/master/releases</url>
+        </repository>
 
