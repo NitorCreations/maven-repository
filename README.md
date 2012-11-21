@@ -8,7 +8,7 @@ Required steps
 
 1. Check out this repository into a directory that you will have to specify when you deploy
 
-        $ git clone git clone git@github.com:NitorCreations/maven-repository.git
+        $ git clone git@github.com:NitorCreations/maven-repository.git
 
 1. Deploy your artifact with the checked out repo as altDeploymentRepository
     
