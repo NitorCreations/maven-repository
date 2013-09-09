@@ -1,7 +1,7 @@
 Publishing artifacts in this repository
 =======================================
 
-This repo is based on [this](http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/) article with the addition of generatiing indexes.
+This repo is based on [this](http://cemerick.com/2010/08/24/hosting-maven-repos-on-github/) article with the addition of generating indexes.
 
 Required steps
 --------------
