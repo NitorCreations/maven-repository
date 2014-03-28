@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.jclouds.driver</groupId>
+  <artifactId>jclouds-netty</artifactId>
+  <versioning>
+    <versions>
+      <version>1.7.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140328123052</lastUpdated>
+  </versioning>
+</metadata>

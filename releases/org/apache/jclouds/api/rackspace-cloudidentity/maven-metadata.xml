@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.jclouds.api</groupId>
+  <artifactId>rackspace-cloudidentity</artifactId>
+  <versioning>
+    <versions>
+      <version>1.7.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140328123024</lastUpdated>
+  </versioning>
+</metadata>

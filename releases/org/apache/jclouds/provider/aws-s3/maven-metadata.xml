@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.jclouds.provider</groupId>
+  <artifactId>aws-s3</artifactId>
+  <versioning>
+    <versions>
+      <version>1.7.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140328123104</lastUpdated>
+  </versioning>
+</metadata>
