@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>cloudy-project-plugin Maven Plugin</name>
+      <prefix>cloudy-project</prefix>
+      <artifactId>cloudy-project-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
